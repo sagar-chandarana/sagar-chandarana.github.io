@@ -1,0 +1,37 @@
+.container-fluid {
+  margin-left: 20%;
+  margin-right: 20%
+}
+
+a {
+  text-decoration: underline;
+}
+
+.social-icon {
+  padding: 0;
+}
+
+#social-div {
+  margin: .5%;
+}
+
+#left-div {
+  min-width: 17vh;
+  max-width: 20vh;
+  margin-bottom: 3%;
+}
+
+#profile-pic {
+  width: 100%;
+  height: auto;
+}
+
+#title {
+  margin: 5% 0%;
+  text-align: left;
+}
+
+#text {
+  font-size: 1.2em;
+  max-width: 50vh;
+}
