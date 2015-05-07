@@ -11,6 +11,10 @@ a {
   padding: 0;
 }
 
+#email {
+  margin: 5%;
+}
+
 #social-div {
   margin: .5%;
 }
@@ -19,6 +23,7 @@ a {
   min-width: 17vh;
   max-width: 20vh;
   margin-bottom: 3%;
+  text-align: right;
 }
 
 #profile-pic {
